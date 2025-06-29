@@ -8073,7 +8073,7 @@ fieldset:disabled .btn {
 }
 
 .fs-1 {
-    font-size: calc(1.375rem + 1.5vw) !important
+    font-size: calc(1.35rem + 1.5vw) !important
 }
 
 .fs-2 {
@@ -11637,7 +11637,7 @@ fieldset:disabled .btn {
 
 @media (min-width:1200px) {
     .fs-1 {
-        font-size: 2.5rem !important
+        font-size: 2.25rem !important
     }
 
     .fs-2 {
