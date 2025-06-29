@@ -2828,7 +2828,7 @@ p.center {
 .timeline .description {
     background-color: #8eaeba;
     border: 10px solid #fff;
-    padding: 30px;
+    padding: 25px;
     display: inline-block;
     position: relative;
     z-index: 10;
@@ -2894,7 +2894,8 @@ p.center {
 }
 
 .timeline .description p {
-    margin: 0
+    margin: 0;
+    font-size: 14px
 }
 
 .timeline .template-1,
